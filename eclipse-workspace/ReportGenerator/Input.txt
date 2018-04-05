@@ -1,0 +1,9 @@
+John Taylor:Term1:English:30:Maths:45:Science:45
+Mary Mathew:Term1:English:40:Maths:35:Science:40
+Tom Sawyer:Term1:English:35:Maths:40:Science:35
+Calvin Hobbes:Term1:English:10:Maths:5:Science:15
+Mary Mathew:Term2:English:30:Maths:45:Science:45
+Term2:Smith:English:30
+Denis Jacob:Term1:English:10
+Tom Sawyer:Term2:English:30:Maths:45:Science:45
+Calvin Hobbes:Term2:English:45:Maths:45:Science:45
